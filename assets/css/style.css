@@ -293,11 +293,14 @@ input[type=submit] {
     padding-right: 20px
   }
 
-  .work{
-    position: relative;
+  .work {
     width: 50%;
     margin: 0px;
+
   }
+
+  
+
 }
 
 @media screen and (max-width: 640px) {
